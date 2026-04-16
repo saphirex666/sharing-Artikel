@@ -24,7 +24,6 @@ An allen anderen Samstagen ist der Wertstoffhof **geschlossen**.
 
 ---
 
-Falls du noch eine Überschrift oder weitere Anpassungen möchtest (z. B. fettgedruckte Wochentage entfernen oder die Adresse anders formatieren), lass es mich wissen!
 # Scholz Recycling GmbH
 Hier ist eine übersichtliche Tabelle mit den Öffnungszeiten von **Scholz Recycling GmbH** in Lutherstadt Eisleben:
 
@@ -41,10 +40,6 @@ Hier ist eine übersichtliche Tabelle mit den Öffnungszeiten von **Scholz Recyc
 ### Sonderöffnungszeiten
 **2. Samstag im Monat**  
 
-
----
-
 **Hinweis:**  
 Am normalen Samstag ist die Annahmestelle geschlossen. Nur am **zweiten Samstag** im Monat ist von 8:00 bis 12:00 Uhr geöffnet.
 
-Möchtest du die Tabelle noch in einer anderen Form (z. B. ohne die Gesamtspalte, kompakter oder mit zusätzlichen Infos wie Adresse oben)? Sag einfach Bescheid!
