@@ -2,6 +2,29 @@
 # Wertstoffhof Unterrissdorf
 https://www.abfallwirtschaft-msh.de/index.php/wehoe-lk-msh/wertstoffhof-unterrissdorf
 
+**Adresse:**  
+Eingangsbereich der ehemaligen Kreismülldeponie  
+06295 Unterrißdorf  
+
+**Telefon:** 03475 663601
+
+### Öffnungszeiten
+
+| Wochentag                          | Öffnungszeiten                          |
+|------------------------------------|-----------------------------------------|
+| **Montag**                         | 09:00 – 12:00 Uhr und 12:30 – 16:30 Uhr |
+| **Dienstag**                       | 09:00 – 12:00 Uhr und 12:30 – 18:00 Uhr |
+| **Mittwoch**                       | 09:00 – 12:00 Uhr und 12:30 – 16:30 Uhr |
+| **Donnerstag**                     | 09:00 – 12:00 Uhr und 12:30 – 16:30 Uhr |
+| **Freitag**                        | 09:00 – 12:00 Uhr und 12:30 – 14:30 Uhr |
+| **1. & 3. Sonnabend im Monat**     | 09:00 – 12:00 Uhr                       |
+
+**Hinweis:**  
+An allen anderen Samstagen ist der Wertstoffhof **geschlossen**.
+
+---
+
+Falls du noch eine Überschrift oder weitere Anpassungen möchtest (z. B. fettgedruckte Wochentage entfernen oder die Adresse anders formatieren), lass es mich wissen!
 # Scholz Recycling GmbH
 Hier ist eine übersichtliche Tabelle mit den Öffnungszeiten von **Scholz Recycling GmbH** in Lutherstadt Eisleben:
 
