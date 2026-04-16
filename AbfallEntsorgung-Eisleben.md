@@ -11,9 +11,9 @@ Eingangsbereich der ehemaligen Kreismülldeponie
 ### Öffnungszeiten
 
 | Wochentag                          | Vormittag         | Nachmittag        |
-|------------------------------------|---------------------------------------|
+|------------------------------------|-------------------|-------------------|
 | **Montag**                         | 09:00 – 12:00 Uhr | 12:30 – 16:30 Uhr |
-| **Dienstag**                       | 09:00 – 12:00 Uhr |12:30 – 18:00 Uhr  |
+| **Dienstag**                       | 09:00 – 12:00 Uhr | 12:30 – 18:00 Uhr  |
 | **Mittwoch**                       | 09:00 – 12:00 Uhr | 12:30 – 16:30 Uhr |
 | **Donnerstag**                     | 09:00 – 12:00 Uhr | 12:30 – 16:30 Uhr |
 | **Freitag**                        | 09:00 – 12:00 Uhr | 12:30 – 14:30 Uhr |
