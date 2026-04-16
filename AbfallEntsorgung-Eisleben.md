@@ -43,3 +43,27 @@ Hier ist eine übersichtliche Tabelle mit den Öffnungszeiten von **Scholz Recyc
 **Hinweis:**  
 Am normalen Samstag ist die Annahmestelle geschlossen. Nur am **zweiten Samstag** im Monat ist von 8:00 bis 12:00 Uhr geöffnet.
 
+---
+
+### DPM Gruppe (Holzheizwerk) – Eisleben
+
+**Adresse:**  
+Alleebreite 12, 06295 Eisleben  
+
+**Telefon:** 034636 61693  
+**Website:** dpm-martin.de
+
+### Öffnungszeiten
+
+| Wochentag     | Öffnungszeiten          |
+|---------------|-------------------------|
+| **Montag**    | 07:00 – 16:00 Uhr      |
+| **Dienstag**  | 07:00 – 16:00 Uhr      |
+| **Mittwoch**  | 07:00 – 16:00 Uhr      |
+| **Donnerstag**| 07:00 – 16:00 Uhr      |
+| **Freitag**   | 07:00 – 16:00 Uhr      |
+| **Samstag**   | **geschlossen**        |
+| **Sonntag**   | **geschlossen**        |
+
+
+
