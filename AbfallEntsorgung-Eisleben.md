@@ -10,14 +10,14 @@ Eingangsbereich der ehemaligen Kreismülldeponie
 
 ### Öffnungszeiten
 
-| Wochentag                          | Öffnungszeiten                          |
-|------------------------------------|-----------------------------------------|
-| **Montag**                         | 09:00 – 12:00 Uhr und 12:30 – 16:30 Uhr |
-| **Dienstag**                       | 09:00 – 12:00 Uhr und 12:30 – 18:00 Uhr |
-| **Mittwoch**                       | 09:00 – 12:00 Uhr und 12:30 – 16:30 Uhr |
-| **Donnerstag**                     | 09:00 – 12:00 Uhr und 12:30 – 16:30 Uhr |
-| **Freitag**                        | 09:00 – 12:00 Uhr und 12:30 – 14:30 Uhr |
-| **1. & 3. Sonnabend im Monat**     | 09:00 – 12:00 Uhr                       |
+| Wochentag                          | Vormittag         | Nachmittag        |
+|------------------------------------|---------------------------------------|
+| **Montag**                         | 09:00 – 12:00 Uhr | 12:30 – 16:30 Uhr |
+| **Dienstag**                       | 09:00 – 12:00 Uhr |12:30 – 18:00 Uhr  |
+| **Mittwoch**                       | 09:00 – 12:00 Uhr | 12:30 – 16:30 Uhr |
+| **Donnerstag**                     | 09:00 – 12:00 Uhr | 12:30 – 16:30 Uhr |
+| **Freitag**                        | 09:00 – 12:00 Uhr | 12:30 – 14:30 Uhr |
+| **1. & 3. Sonnabend im Monat**     | 09:00 – 12:00 Uhr                     |
 
 **Hinweis:**  
 An allen anderen Samstagen ist der Wertstoffhof **geschlossen**.
