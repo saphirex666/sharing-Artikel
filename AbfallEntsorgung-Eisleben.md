@@ -30,18 +30,17 @@ Hier ist eine übersichtliche Tabelle mit den Öffnungszeiten von **Scholz Recyc
 
 ### Öffnungszeiten – Scholz Recycling GmbH
 
-| Wochentag       | Vormittag          | Nachmittag         | Gesamt                  |
-|-----------------|---------------------|---------------------|-------------------------|
-| **Montag**      | 08:00 – 12:30 Uhr  | 13:00 – 16:00 Uhr  | 08:00 – 16:00 Uhr      |
-| **Dienstag**    | 08:00 – 12:30 Uhr  | 13:00 – 17:00 Uhr  | 08:00 – 17:00 Uhr      |
-| **Mittwoch**    | 08:00 – 12:30 Uhr  | 13:00 – 16:00 Uhr  | 08:00 – 16:00 Uhr      |
-| **Donnerstag**  | 08:00 – 12:30 Uhr  | 13:00 – 17:00 Uhr  | 08:00 – 17:00 Uhr      |
-| **Freitag**     | 08:00 – 12:30 Uhr  | 13:00 – 16:00 Uhr  | 08:00 – 16:00 Uhr      |
-| **Samstag**     | –                   | –                   | **geschlossen**        |
+| Wochentag       | Vormittag          | Nachmittag         |        
+|-----------------|---------------------|---------------------|
+| **Montag**      | 08:00 – 12:30 Uhr  | 13:00 – 16:00 Uhr  | 
+| **Mittwoch**    | 08:00 – 12:30 Uhr  | 13:00 – 16:00 Uhr  | 
+| **Donnerstag**  | 08:00 – 12:30 Uhr  | 13:00 – 17:00 Uhr  | 
+| **Freitag**     | 08:00 – 12:30 Uhr  | 13:00 – 16:00 Uhr  | 
+|**2. Samstag im Monat**     | 08:00 – 12:00 Uhr                 | –                   |
 
 ### Sonderöffnungszeiten
 **2. Samstag im Monat**  
-08:00 – 12:00 Uhr
+
 
 ---
 
